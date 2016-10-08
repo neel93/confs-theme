@@ -2,7 +2,7 @@
 title: Portfolio
 email: neel93@gmail.com
 description: Personal Portfolio
-baseurl: ""
+baseurl: "/portfolio-blog"
 url: ""
 twitter_username: 
 avatar: "" # Set footer avatar
