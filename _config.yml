@@ -3,7 +3,6 @@ title: Portfolio
 email: neel93@gmail.com
 description: Personal Portfolio
 baseurl: "/portfolio-blog"
-url: ""
 twitter_username: 
 avatar: "" # Set footer avatar
 paginate: 3
@@ -19,8 +18,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Sanket Rai Choudhary" # Set default author name
+      categories: "work"
       layout: "post"
       comments: true
   -
