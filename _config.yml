@@ -1,9 +1,9 @@
 # Site settings
 title: Blog
-email: tpriya_singh@yahoo.in
-twitter: ""
+email: tpriya_singh@gmail.com
+description: Personal Portfolio
 baseurl: "/portfolio-blog"
-
+twitter_username: 
 avatar: "" # Set footer avatar
 paginate: 3
 
@@ -18,7 +18,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "Taru Priya Singh" # Set default author name
+      author: "Tarupriya Singh" # Set default author name
       categories: "work"
       layout: "post"
       comments: true
