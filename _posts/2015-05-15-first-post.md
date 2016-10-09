@@ -1,13 +1,44 @@
 ---
-title:  "My First Post"
-categories: sample
+title:  "How Blue is my Saphire"
+categories: Romantic
 image: feat-img.jpg
 ---
 
-Hi there. This will be your first blog post&mdash;I hope you're excited! To get started, give this post a new title by replacing "My First Post" with your post's title. 
-
-You can change the post's author name in the `_config.yml` file, or add an `author` variable in the front matter block. 
-
-To change the post image, replace the image name with your new image. If you don't want to use an image in this post, delete the image variable in the front matter.
-
-Have fun blogging!
+All of us live with our past. All of us allow it to shape our future. But some of us know how to shrug the past. I think I am the one who let my past define me, but in the way that held me strong enough to face this double side society. Our mind is just tangled pieces of memories which are in constant battle with our conscious mind to govern our body. Our sub-conscious mind always remains active and let the past stare through the darkest corners of our mind to blur our bright future. Mostly people always keep the bad memories with them and often ignore the beautiful parts of those memories that have made them the person they were then and like they are now. The Past is a sapphire with the heap of people and things associated with us. Mostly people associate would think that Blue is the indicator of harshness, brutal and poisoned thoughts, but to break this taboo, I would like to drag the focus on the other Blue; the colour of a bright day which is marked with the chirpiness of the small birds, the Blue of Royal and power, to rule the world with positivity learning from the Past and doing justice. 
+You might be thinking why I am philosophising this much about life and past; there is a reason to bring the change in thinking of people, which HE bought in me. I’m Nandini, a girl with so many dreams, but being brutally murdered by the taunts and expectations of the society which a girl needs to fulfil. For them a girl should be qualified enough in housework, may or may not she be educated enough or not. But my parents thought me to educate enough and make me the person who I wish to be. Yes like every normal girl, I too got married off by my parents; least knowing that the person whom they choose was a Saint was disguised. Few months of marriage were going well. Like a perfect housewife I took care of my husband and his family and they became my first priority. Being on a job, I had few responsibilities towards my own family. Soon after 6 months of being in an idol picture perfect image of a family, the colours started to fade. I was forced to leave my job because I earned more than the 'Pride' of their Family. I stood adamant at the decision to continue my job, but there was something different and horrifying in the store.
+"Sahil I am not going to leave my job, I have already mentioned that before marrying you.” I said.
+"What the hell? You are my wife and I am your husband, you have to obey what the MAN wants.” He said taking off his shirt.
+"From where does this “BEING MA” comes from? We are married Sahil, husband and wife are equal and we live in a modern world. Women equally contribute....” I said and was cut off by him.
+"STOP TALKING THIS NONSENSE SHIT INFRONT OF ME.", He said.
+"I AM NOT GOING TO LEAVE MY JOB", I said marking the end of topic.
+"LET ME END THIS TOPIC", He said and pounced over me.
+This was the first time that HE forced himself on me. My clothes were tore and were beaten brutally. I tried to protest but failed. Which I always wanted to have from my husband, turned into a curse. The room which was to be filled with love and laughter was filled with the screams and mourning. The weapon was forced inside me and his agony came to end. I bled profusely. More than any other pain, the pain of broken trust was more. My tears dried but the wounds on my heart were bleeding constantly. Days passed and this became a routine. Every night I was raped for one or the other reason. I took my own time and day came I filed the case in court for Marital rape. Sahil tried to escape the case but soon went on knees in front of the court. He was found guilty and soon court was in my favour and I got divorced.
+But as said Time heals the wound, this didn't work in my case. Mere 7 letters on a paper with the signatures and approval from the court cannot heal the bruises on my heart. I was the girl who didn't believe in divorce and in the heart of heart I never thought of getting problems in my marriage. May be God had other plans. It's been 5 long tiring years fighting battles on my own. Being a kind and understanding joyful manager of the company, I was a cruel body which trapped her own soul in the cage made of past. But a day came, when things started to change, it was the time when HE came in my scattered life; 
+He was my college friend and my client too. He was my friend and had no change, young as always and full of happiness. He tried to contact me several times but I changed everything from my number to my own self. But He was meant to be in my life, as my saviour.
+"Mam, somebody has come to meet you.” said the peon handing me the ID card of that person.
+'Rohan Mehra.'
+Thousand memories flashed. The college canteen, bunks parties, adventures and what not.
+"Send him", I ordered.
+He came. Clad in a purple shirt and dark grey trousers, his corporate look could kill any college going girl. He was the same, not even an inch went here to there. And there he was, sitting in front of me wearing his smile and waiting for me to respond to his gesture.
+"A coffee for two", I said the peon.
+He sat looking me. It was the first time I didn't know what to speak. He was my best buddy and he wasn't aware what atrocities his friend faced. As soon as I gathered my courage to speak, he crossed the table and hugged me. After so many years, I melted. Gaining my composure, we sat and talked about the currents.
+"How's your husband?” He asked. His question pinched me like thousand needles sucking my blood and making me pale and weak.
+"I am divorced Rohan, I said faintly. He heard though and chose to keep silent.
+"I am going to work in your office only, because I am dealing with one of the new building extension your company is going through", said He, flashing his teeth in pride.
+"OH! No, this means I have to bear you for 6 months.” I said and we both started laughing.
+Time flew. 4 months passed, I and Rohan came closer. The bond which we shared gained its lustre. But he came to meet a cold version of me. The version whim he fell for was tortured, bruised, defeated and was hidden deep inside the folds of my soul. I started getting attached to Rohan but my past always came on my path forcing me to live in the reality. He tried a lot to build the dreams which once I dreamt of, but my deep hidden secrets failed him.
+"Where are we going?” I asked him.
+"We are going on a date babes", said He. 
+"Chill, we are going for dinner, I got tired eating home-made food", He added making a puppy face.
+While relishing the dishes, He came to the seat near me and held my hand. That was enough to send my shivers down the spine. He spoke,
+"I know everything Nandini. Before meeting you, I went to your father and he narrated me every single incident which happened with you. I never told you because I know you would not like to go through every detail again. Whatever happens, just remember I am there for you. These moments which I spent with you, made my heart fall for you. I am irrevocably in Love with you Nandini. I don't want any name to seal my love for you. I know that you too reciprocate the same but you will never speak that.” He said making me speechless.
+"Nandini, it's impossible to forget that hideous past and carry forward a normal life, like you had. But just think one thing, you had a beautiful life which was gifted to you by your parents, against the family culture you had. You had a great bunch of friends who loved you and trusted in you. Yes you had a few weaknesses too, but you yourself know now that you have overcome them just because of that single incident. Yes the changes that came in you are good in some sense, but try to think the innocent soul that you have caged. That Nandini, who loved life and lead her life with their loved ones and trusted them not left them and ended herself in the most destructive manner. This is a mere example Nandini; there are a lot of things that you have hid in your heart. Just consider these points and lead your life.” He spoke smoothly.
+Tears developed in my eyes and I just gave him a hug. That pain which was hidden deep made their way through eyes. The next thing he did was beyond my imagination power. He bent on his knees, took a box out of his pocket.
+"Will you allow me to heal your every wound? Will you marry me?" He asked.
+I was dumbfounded. I couldn't utter a single word. 
+"I am a divorcee Rohan, you deserve better", finally words escaped my mouth.
+"There is no hurry Nandini, this ring would get its real shine only when you are ready. Before everything I am your Best friend and whatever happens I will remain that. I am leaving for London tomorrow and will never show you my face. Whenever you need me, I am a call away from you.” He said and walked out of the hall.
+I sat there. After the dawn broke, I manage to take heavy steps towards my office. Yes, I went there to keep myself busy. The room had so memories of him that I couldn't control and cried. I lay on the floor like a scared baby. He left.
+..............
+Years passed. Just as Rohan said, I was the same Nandini as I used to be earlier before Sahil. Today I am married and have a cute kid Saanjh. He is just like his father, Rohan. Yes I married him. He made my life just what I dreamt. A beautiful dream turned into reality. He turned my Blue typhoon into a serene one. The sky full of chirpiness and happiness. He made me balance my present through the past and made me accept the harsh realities and cruel past to not govern me but to make me strong enough. He made me govern my past in the most beautiful way anyone could. It's correctly written
+'Learning gained from the past are a gift when past is your Teacher'. Don't stick to the bad ones but try them to shape you and remember the good ones, they help you to lead the longest journey 'Life'.
