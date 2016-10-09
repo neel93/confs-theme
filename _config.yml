@@ -1,7 +1,8 @@
 # Site settings
 title: Blog
 email: tpriya_singh@yahoo.in
-description: Personal Portfolio
+twitter_username: ""
+
 baseurl: "/portfolio-blog"
 
 avatar: "" # Set footer avatar
