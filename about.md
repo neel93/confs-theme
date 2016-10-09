@@ -3,4 +3,4 @@ title: About
 permalink: /about/
 ---
 
-<b>Coming Soon</b>
+<b>COMING SOON</b>
