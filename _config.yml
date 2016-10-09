@@ -1,9 +1,9 @@
 # Site settings
-title: Portfolio
-email: neel93@gmail.com
+title: Blog
+email: tpriya_singh@yahoo.in
 description: Personal Portfolio
 baseurl: "/portfolio-blog"
-twitter_username: Sanket
+twitter_username: ""
 avatar: "" # Set footer avatar
 paginate: 3
 
@@ -18,7 +18,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "Sanket Rai Choudhary" # Set default author name
+      author: "Taru Priya Singh" # Set default author name
       categories: "work"
       layout: "post"
       comments: true
