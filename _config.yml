@@ -1,8 +1,8 @@
 # Site settings
 title: Blog
 email: tpriya_singh@yahoo.in
-
-baseurl: "/portfolio-blog"
+twitter: ""
+baseurl: "/blog"
 
 avatar: "" # Set footer avatar
 paginate: 3
