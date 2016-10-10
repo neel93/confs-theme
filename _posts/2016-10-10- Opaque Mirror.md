@@ -1,5 +1,5 @@
 ---
-title:  "Opaque Mirrior"
+title:  "Opaque Mirror"
 categories: "Romanctic"
 image: msg-unconditional-love.jpg
 ---
