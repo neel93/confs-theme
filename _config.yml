@@ -1,11 +1,11 @@
 # Site settings
 title: Blog
-email: tpriya_singh@ymail.com
+email: tpriya_singh@yahoo.in
 description: Personal Portfolio
 baseurl: "/portfolio-blog"
 twitter_username: 
    
-linkedin_username: tpriya_singh@ymail.com
+linkedin_username: tpriya_singh@yahoo.in
 
 avatar: "" # Set footer avatar
 paginate: 3
