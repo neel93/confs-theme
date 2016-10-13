@@ -5,7 +5,7 @@ description: Personal Portfolio
 baseurl: "/portfolio-blog"
 twitter_username: 
 yahoo_username:  
-
+linkedin_username:
 
 avatar: "" # Set footer avatar
 paginate: 3
